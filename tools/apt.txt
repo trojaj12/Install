@@ -1,0 +1,9 @@
+git
+vim
+gcc
+g++
+mc
+wget
+tar
+zip
+uzip
