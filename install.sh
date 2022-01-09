@@ -16,12 +16,3 @@ while read -r tool; do
     echo "Installing $tool"
     apt-get -qq --yes install $tool
 done < ./tools/apt.txt
-
-echo "===Installing tools using SNAP==="
-
-while read -r tool; do
-    [[ $tool == "" || ${tool::1} == "#" ]] && continue
-    echo "Installing $tool"
-    snap install $tool
-done < ./tools/snap.txt
-

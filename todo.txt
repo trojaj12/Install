@@ -1,0 +1,21 @@
+usermod -aG sudo $user
+echo $USER	ALL=(ALL:ALL) NOPASSWD:ALL >> /etc/sudoers
+
+
+ssh-keygen
+
+
+
+code
+chrome
+discord
+teams
+Jetbrains-toolbox
+gnome-tweaks
+[non-free] firmware-atheros
+.net 6
+.net 5
+https://wiki.debian.org/VirtualBox
+docker
+ssh-server
+

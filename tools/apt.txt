@@ -7,3 +7,10 @@ wget
 tar
 zip
 uzip
+vlc    
+htop
+tmux
+gnome-tweak-tool
+stow
+vlc
+wget
