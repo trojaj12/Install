@@ -19,3 +19,6 @@ https://wiki.debian.org/VirtualBox
 docker
 ssh-server
 
+https://obsidian.md/download
+snap instll obsedian*.snap --dangerous
+snap
